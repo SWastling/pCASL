@@ -2,7 +2,7 @@
 
 ## Synopsis
 Simulate flow-driven adiabatic inversion from pCASL, in 
-[MATLAB](www.mathworks.com), as described in Dai et. al. 2008 
+[MATLAB](https://www.mathworks.com), as described in Dai et. al. 2008 
 and Alsop et. al. 2015.
 
 ## Requirements
